@@ -2,19 +2,19 @@
 
 @font-face {
   font-family: jost-regular;
-  src: url(../public/fonts/Jost/Jost-Regular.ttf);
+  src: url(/fonts/Jost/Jost-Regular.ttf);
 }
 @font-face {
   font-family: jost-medium;
-  src: url(../public/fonts/Jost/Jost-Medium.ttf);
+  src: url(/fonts/Jost/Jost-Medium.ttf);
 }
 @font-face {
   font-family: jost-semibold;
-  src: url(../public/fonts/Jost/Jost-SemiBold.ttf);
+  src: url(/fonts/Jost/Jost-SemiBold.ttf);
 }
 @font-face {
   font-family: jost-bold;
-  src: url(../public/fonts/Jost/Jost-Bold.ttf);
+  src: url(/fonts/Jost/Jost-Bold.ttf);
 }
 body {
   font-family: jost-regular, sans-serif;
@@ -25,15 +25,15 @@ body {
 }
 @font-face {
   font-family: inter-bold;
-  src: url(../public/fonts/Inter/Inter_24pt-Bold.ttf);
+  src: url(/fonts/Inter/Inter_24pt-Bold.ttf);
 }
 @font-face {
   font-family: inter-regular;
-  src: url(../public/fonts/Inter/Inter_18pt-Regular.ttf);
+  src: url(/fonts/Inter/Inter_18pt-Regular.ttf);
 }
 @font-face {
   font-family: inter-extra;
-  src: url(../public/fonts/Inter/Inter_24pt-ExtraBold.ttf);
+  src: url(/fonts/Inter/Inter_24pt-ExtraBold.ttf);
 }
 
 .custom-scroll {
